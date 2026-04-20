@@ -1,6 +1,6 @@
 # Sharpa Pilot
 
-Sharpa Pilot is an internal application for controlling and interacting with the Sharpa Wave system.
+ Sharpa Pilot is the official application for device configuration, monitoring, firmware updates, and routine operations.
 
 ---
 
